@@ -21,6 +21,6 @@ async def main():
     await agent.run()
     await browser_session.close()
 
-git
+
 if __name__ == '__main__':
 	asyncio.run(main())
